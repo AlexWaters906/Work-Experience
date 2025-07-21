@@ -1,0 +1,11 @@
+{
+    "unique-id": <<id>>,
+    "payment-date": "2025-07-19",
+    "amount": <<amount>>,
+    "currency": "GBP",
+    "scheme": "VISA",
+    "cardHolderDetails": {
+        "name": "Alex Waterfield",
+        "location": "Natland"
+    }
+}
